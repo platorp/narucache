@@ -1,1 +1,1 @@
-<h1>NARUCACHE</h1>
+<h1 style="text-align:center;">NARUCACHE</h1>
